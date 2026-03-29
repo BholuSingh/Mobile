@@ -30,7 +30,6 @@ This repository contains a battle-tested mental model and reusable prompt/rule f
 | File | Purpose |
 |------|---------|
 | `system-design-mode.mdc` | Drop this into your `.cursor/rules/` directory to get AI-assisted system design answers that follow the framework automatically |
-| `system-design-article.md` | The complete article explaining the framework — use it as a reference or publish it to your own blog |
 
 ---
 
